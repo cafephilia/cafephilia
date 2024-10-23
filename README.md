@@ -1,11 +1,11 @@
 <div align=center>
 
 
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkdiUc5vn2OZdKrLDp8ZWXMjVn_P_qtn5TQ&s)
 ![]()
 
 
-  <h3>📚 Tech Stack (soon) 📚</h3>
+  <h3>📚 Tech Stack (공부중) 📚</h3>
 
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -25,6 +25,5 @@
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
  
-<hr>
 
 
