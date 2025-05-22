@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
- 
+
+<br>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemember&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemember&layout=compact)](https://github.com/leemember/github-readme-stats)
 
 
